@@ -24,7 +24,8 @@ Bu proje, bir kütüphane sisteminin kullanıcı arayüzünü oluşturan React t
 
 | Kitap Listesi | Kitap Ekle |
 |---------------|------------|
-| 📸 (<img width="943" alt="Ekran Resmi 2025-06-26 00 35 35" src="https://github.com/user-attachments/assets/36e79c89-0c51-4a6e-921d-5a8e85ad9581" />
+| 📸 (<img width="1440" alt="ekranResmi" src="https://github.com/user-attachments/assets/166efa92-0783-45e5-9c5a-7383fbff513f" />
+
 ) | 📸 |
 
 ## ⚙️ Kurulum (Local)
