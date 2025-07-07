@@ -1,12 +1,40 @@
-# React + Vite
+# 📚 Library Frontend (ReactJS + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, bir kütüphane sisteminin kullanıcı arayüzünü oluşturan React tabanlı frontend uygulamasıdır. Kullanıcılar kitapları listeleyebilir, arayabilir, ekleyebilir, düzenleyebilir ve silebilir. Uygulama mobil uyumlu (responsive) olarak geliştirilmiştir.
 
-Currently, two official plugins are available:
+## 🚀 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📖 Kitapları listeleme (Backend'den çekilir)
+- 🔍 Kitap adıyla arama
+- ➕ Yeni kitap ekleme
+- 📝 Var olan kitabı güncelleme
+- ❌ Kitap silme
+- ✅ Toast bildirimleri ile kullanıcı geri bildirimi
+- 📱 Mobil uyumlu tasarım
 
-## Expanding the ESLint configuration
+## 🛠️ Kullanılan Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **ReactJS**
+- **Vite**
+- **Tailwind CSS**
+- **Axios**
+- **React Toastify**
+
+## 🖼️ Arayüzden Görüntüler
+
+| Kitap Listesi | Kitap Ekle |
+|---------------|------------|
+| 📸 (Ekran görüntüsü ekleyebilirsiniz) | 📸 |
+
+## ⚙️ Kurulum (Local)
+
+```bash
+# Depoyu klonla
+git clone https://github.com/fatih3457/library-frontend-react.git
+cd library-frontend-react
+
+# Bağımlılıkları yükle
+npm install
+
+# Uygulamayı başlat
+npm run dev
